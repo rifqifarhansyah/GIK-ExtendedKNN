@@ -73,7 +73,7 @@ A simple program to extend K-Nearest Neighbor algorithm that have been made in t
 
 ## Video Captures
 
-![KKN Extended](https://github.com/Ulung32/Tucil3_13521122_13521166/blob/main/image/TUCIL3.gif?raw=true)
+![KKN Extended](https://github.com/rifqifarhansyah/GIK-ExtendedKNN/blob/main/image/KKNExtend.gif?raw=true)
 
 <a name="screenshots"></a>
 
